@@ -1,15 +1,6 @@
 # Intelligent Campus Navigation Agent (CSN304, P-1)
 
-## Group
 
-| Roll number | Member |
-|---|---|
-| 1000024073 | Nikunj Sharma |
-| 1000024101 | Debolina Tapadar |
-| 1000024126 | Aryan Bihari |
-| 1000024153 | Vatsal Bajpai |
-
-Group: **G-100**
 
 ## How to run
 
